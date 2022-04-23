@@ -16,3 +16,5 @@ if year % 4 == 0:
         print('Год високосный')
 else:
     print('Год не високосный')
+a = b'aaa'
+print(type(a))
