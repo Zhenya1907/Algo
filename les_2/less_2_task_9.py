@@ -1,7 +1,7 @@
 '''
 9. Среди натуральных чисел, которые были введены, найти наибольшее по сумме цифр. Вывести на экран это число и сумму его цифр.
 '''
-# ссылка
+# https://drive.google.com/file/d/16dXVPkWIhTpeuus0CNyFOd7mzIw7bkm7/view?usp=sharing
 
 
 def digits_sum(n):
